@@ -1,2 +1,2 @@
 # FileFind
-This python script searcher a specified directory for files that have names ending in a particular extension. E.g: ".mp3"
+This python script searches a specified directory for files that have names ending in a particular extension. E.g: ".mp3"
